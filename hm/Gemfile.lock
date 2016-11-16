@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport-inflector (0.1.0)
+    d-parse (0.1)
+    i18n (0.7.0)
+    monadt (0.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport-inflector
+  d-parse
+  i18n
+  monadt

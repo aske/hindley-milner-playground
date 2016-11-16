@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'monadt'
+gem 'activesupport-inflector'
+gem 'i18n'
+gem 'd-parse'
